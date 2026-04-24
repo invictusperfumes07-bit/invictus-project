@@ -245,7 +245,7 @@ const Index = () => {
       <footer className="border-t border-border/40 bar-gradient-footer py-8 mt-20">
         <div className="container mx-auto px-4 text-center">
           <p className="text-muted-foreground">
-            © 2026 Accesorios El Duende. Powered by Adsvanced.
+            © 2026 Invictus Perfumeria. Powered by Adsvanced.
           </p>
         </div>
       </footer>
