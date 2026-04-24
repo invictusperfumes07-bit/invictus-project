@@ -16,7 +16,7 @@ export const CartModal = () => {
     });
     message += `\nTotal estimado: $${cartTotal.toLocaleString("es-CO")}`;
     
-    const whatsappUrl = `https://wa.me/573006092452?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/573105421033?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, "_blank");
     clearCart();
     setIsCartOpen(false);
